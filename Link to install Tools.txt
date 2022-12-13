@@ -1,0 +1,8 @@
+https://www.oracle.com/database/technologies/xe18c-downloads.html
+Oracle Database 18c Express Edition for Windows x64
+
+https://www.oracle.com/database/sqldeveloper/technologies/download/
+Windows 64-bit with JDK 11 included
+
+Oracle Form/Report
+https://www.oracle.com/middleware/technologies/forms/downloads.html
