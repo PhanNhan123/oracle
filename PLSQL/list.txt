@@ -1,0 +1,22 @@
+ Volume in drive C is Win10
+ Volume Serial Number is 3F03-A4C0
+
+ Directory of C:\Users\binguyen\Hitachi Vantara\MVL-Project-Training-Mgmt - Documents\General\01. Training Plan\Oracle\Documents\PLSQL
+
+11/08/2022  06:26 PM    <DIR>          .
+11/08/2022  06:26 PM    <DIR>          ..
+02/25/2022  09:52 AM         (295,936) 10_Tao Ham.ppt
+02/25/2022  09:52 AM         (130,560) 11_tao packages.ppt
+02/25/2022  09:52 AM       (1,019,392) 12_tao triggers.ppt
+02/25/2022  09:52 AM         (173,568) 1_Intro_plsql.ppt
+02/25/2022  09:52 AM         (432,128) 2_KhaiBaoBien.ppt
+02/25/2022  09:52 AM         (206,848) 3_VietCauLenhThucThi.ppt
+02/25/2022  09:52 AM         (279,552) 4_TuongTacOracle.ppt
+02/25/2022  09:52 AM         (219,136) 5_CauTrucDieuKhien.ppt
+02/25/2022  09:52 AM         (268,800) 6_Lam viec voi KDL Composites.ppt
+02/25/2022  09:52 AM         (248,832) 7_Viet contro explicit.ppt
+02/25/2022  09:52 AM         (565,248) 8_kiem soat ngoai le.ppt
+02/25/2022  09:52 AM         (722,944) 9_Tao thu tuc.ppt
+11/08/2022  06:26 PM                 0 list.txt
+              13 File(s)      4,562,944 bytes
+               2 Dir(s)  369,807,196,160 bytes free
