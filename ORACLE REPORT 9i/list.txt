@@ -1,0 +1,35 @@
+ Volume in drive C is Win10
+ Volume Serial Number is 3F03-A4C0
+
+ Directory of C:\Users\binguyen\Hitachi Vantara\MVL-Project-Training-Mgmt - Documents\General\01. Training Plan\Oracle\Documents\ORACLE REPORT 9i
+
+11/08/2022  06:40 PM    <DIR>          .
+11/08/2022  06:40 PM    <DIR>          ..
+03/22/2022  11:47 AM          (68,608) ep_cover_3.0.ppt
+03/22/2022  11:47 AM          (94,720) Intro.ppt
+03/22/2022  11:47 AM         (729,600) Les01.ppt
+03/22/2022  11:47 AM         (191,488) Les02.ppt
+03/22/2022  11:47 AM         (745,472) Les03.ppt
+03/22/2022  11:47 AM         (801,280) Les04.ppt
+03/22/2022  11:47 AM         (224,768) Les05.ppt
+03/22/2022  11:47 AM         (249,344) Les06.ppt
+03/22/2022  11:47 AM         (261,120) Les07.ppt
+03/22/2022  11:47 AM         (232,448) Les08.ppt
+03/22/2022  11:47 AM         (293,376) Les09.ppt
+03/22/2022  11:47 AM         (332,800) Les10.ppt
+03/22/2022  11:48 AM         (521,728) Les11.ppt
+03/22/2022  11:48 AM         (265,728) Les12.ppt
+03/22/2022  11:48 AM         (254,976) Les13.ppt
+03/22/2022  11:48 AM         (378,880) Les14.ppt
+03/22/2022  11:48 AM         (113,664) Les15.ppt
+03/22/2022  11:48 AM         (259,584) Les16.ppt
+03/22/2022  11:48 AM         (350,720) Les17.ppt
+03/22/2022  11:48 AM         (209,920) Les18.ppt
+03/22/2022  11:48 AM         (176,128) Les19.ppt
+03/22/2022  11:48 AM         (130,048) Les20.ppt
+03/22/2022  11:48 AM         (495,104) Les21.ppt
+03/22/2022  11:48 AM         (126,464) Les22.ppt
+11/08/2022  06:40 PM                 0 list.txt
+03/22/2022  11:48 AM         (345,600) xppb.ppt
+              26 File(s)      7,853,568 bytes
+               2 Dir(s)  369,793,798,144 bytes free

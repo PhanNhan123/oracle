@@ -1,0 +1,47 @@
+ Volume in drive C is Win10
+ Volume Serial Number is 3F03-A4C0
+
+ Directory of C:\Users\binguyen\Hitachi Vantara\MVL-Project-Training-Mgmt - Documents\General\01. Training Plan\Oracle\Documents\ORACLE FORM 9i
+
+11/08/2022  06:37 PM    <DIR>          .
+11/08/2022  06:37 PM    <DIR>          ..
+03/22/2022  11:48 AM          (39,936) cig.ppt
+03/22/2022  11:48 AM          (40,960) Communicating with a JavaBean.doc
+03/22/2022  11:48 AM          (39,936) csg.ppt
+03/22/2022  11:48 AM          (56,832) ep_cover.ppt
+03/22/2022  11:48 AM         (110,080) InstructorPreface.ppt
+03/22/2022  11:48 AM         (112,640) Intro.ppt
+06/10/2022  06:23 PM         1,308,672 Les01.ppt
+03/22/2022  11:48 AM         (483,328) Les02.ppt
+03/22/2022  11:48 AM         (270,336) Les03.ppt
+03/22/2022  11:48 AM         (675,328) Les04.ppt
+03/22/2022  11:48 AM         (524,800) Les05.ppt
+03/22/2022  11:48 AM         (552,960) Les06.ppt
+03/22/2022  11:48 AM         (518,656) Les07.ppt
+03/22/2022  11:48 AM         (341,504) Les08.ppt
+03/22/2022  11:48 AM         (481,280) Les09.ppt
+03/22/2022  11:48 AM         (289,792) Les10.ppt
+03/22/2022  11:48 AM         (434,688) Les11.ppt
+03/22/2022  11:48 AM         (261,120) Les12.ppt
+03/22/2022  11:48 AM         (521,216) Les13.ppt
+03/22/2022  11:48 AM         (301,568) Les14.ppt
+03/22/2022  11:48 AM         (284,672) Les15.ppt
+03/22/2022  11:48 AM         (297,472) Les16.ppt
+03/22/2022  11:48 AM         (198,144) Les17.ppt
+03/22/2022  11:48 AM         (202,752) Les18.ppt
+03/22/2022  11:48 AM         (259,584) Les19.ppt
+03/22/2022  11:48 AM         (322,048) Les20.ppt
+03/22/2022  11:48 AM         (191,488) Les21.ppt
+03/22/2022  11:48 AM         (293,888) Les22.ppt
+03/22/2022  11:48 AM         (301,568) Les23.ppt
+11/08/2022  06:37 PM                 0 list.txt
+03/22/2022  11:48 AM          (98,304) preface.ppt
+03/22/2022  11:48 AM         (133,632) toc.ppt
+03/22/2022  11:48 AM         (458,752) xppA.ppt
+03/22/2022  11:48 AM         (481,280) xppB.ppt
+03/22/2022  11:48 AM         (321,024) xppC.ppt
+03/22/2022  11:48 AM         (183,808) xppD.ppt
+03/22/2022  11:48 AM         (292,864) xppE.ppt
+03/22/2022  11:48 AM         (317,440) xppF.ppt
+              38 File(s)     12,004,352 bytes
+               2 Dir(s)  369,804,173,312 bytes free
