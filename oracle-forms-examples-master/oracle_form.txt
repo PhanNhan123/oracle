@@ -1,0 +1,42 @@
+alter session set "_ORACLE_SCRIPT"=TRUE;
+
+-- password user -- 
+root123
+-- weblogic -- 
+root@123
+http://vietnam-3994:7001/console
+
+MKDIR C:\Oracle\Oracle_Home\user_projects\domains\base_domain\servers\AdminServer\security
+echo username=weblogic> C:\Oracle\Oracle_Home\user_projects\domains\base_domain\servers\AdminServer\security\boot.properties
+echo password=root@123>> E:\Oracle\Oracle_Home\user_projects\domains\base_domain\servers\AdminServer\security\boot.properties
+
+
+
+MKDIR C:\Oracle\Oracle_Home\user_projects\domains\base_domain\servers\WLS_FORMS\security
+echo username=weblogic> C:\Oracle\Oracle_Home\user_projects\domains\base_domain\servers\WLS_FORMS\security\boot.properties
+echo password=root@123>> E:\Oracle\Oracle_Home\user_projects\domains\base_domain\servers\WLS_FORMS\security\boot.properties
+
+--- oracle enterprise ---
+
+http://vietnam-3994:7001/em
+
+http://localhost:9001/forms/frmservlet?config=webstart
+
+-- change password user oracle --
+ALTER USER account IDENTIFIED BY password ACCOUNT UNLOCK  
+
+-- run server 
+C:\Oracle\Oracle_Home\user_projects\domains\base_domain\bin  startNodeManager.cmd
+C:\Oracle\Oracle_Home\user_projects\domains\base_domain\bin  startWebLogic.cmd
+
+
+cd C:\Oracle\Oracle_Home\user_projects\domains\base_domain\bin startManagedWebLogic.cmd WLS_FORMS
+
+
+
+error 451
+
+error 2737
+
+
+https://www.foxinfotech.in/2015/10/oracle-forms-project-for-students-free-download.html
